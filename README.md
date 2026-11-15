@@ -13,7 +13,7 @@ The test was completed over the weekend of Saturday, November 14, and Sunday, No
 
 ## Run the demo
 
-1. Open `code/Test Charged Monkey` through Unity Hub using **Unity 6000.6.8f1**.
+1. Open `Test Charged Monkey` through Unity Hub using **Unity 6000.6.8f1**.
 2. Allow Unity to restore the packages and import the assets. Git must be available to resolve the LitMotion dependency.
 3. Open `Assets/Scenes/SampleScene.unity`.
 4. Enter Play Mode. The appearance sequence starts automatically.
